@@ -32,7 +32,7 @@ A few other requirements included:
 
 1. You should have [node](https://nodejs.org/en) installed to be able to use this app.
 2. Clone this repository.
-```console
+```sh
 git clone https://github.com/0ranga/IGR203-web-server-lab.git
 ```
 3. Navigate to the project directory.
