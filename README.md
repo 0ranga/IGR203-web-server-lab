@@ -36,19 +36,19 @@ A few other requirements included:
 git clone https://github.com/0ranga/IGR203-web-server-lab.git
 ```
 3. Navigate to the project directory.
-	```sh
-	cd IGR203-web-server-lab
-	```
+```sh
+cd IGR203-web-server-lab
+```
 4. Install the project's dependencies.
-	```sh
-	npm install
-	```
+```sh
+npm install
+```
 5. Start the server.
-	```sh
-	node app.js
-	```
+```sh
+node app.js
+```
 6. You should be able to open it at the following link:
-	```
-	http://localhost:8080/micropubs
-	```
+```
+http://localhost:8080/micropubs
+```
 
