@@ -11,7 +11,7 @@ This project is the result of a web lab from a class at Télécom Paris as part 
 
 ## About this lab
 
-### Tech stach
+### Tech stack
 
 - [Node.js](https://nodejs.org/en)
 - [Express.js](https://expressjs.com) to manage requests and for routing
@@ -32,19 +32,19 @@ A few other requirements included:
 
 1. You should have [node](https://nodejs.org/en) installed to be able to use this app.
 2. Clone this repository.
-	```shell
+	```sh
 	git clone https://github.com/0ranga/IGR203-web-server-lab.git
 	```
 3. Navigate to the project directory.
-	```shel
+	```sh
 	cd IGR203-web-server-lab
 	```
 4. Install the project's dependencies.
-	```shell
+	```sh
 	npm install
 	```
 5. Start the server.
-	```shell
+	```sh
 	node app.js
 	```
 6. You should be able to open it at the following link:
