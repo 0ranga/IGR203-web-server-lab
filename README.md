@@ -29,6 +29,7 @@ The goal was to create a minimal twitter-like app that lets you do the follwing:
 A few other requirements included:
 - save the new micropubs on the server so that data is not lost when server is stopped and relaunched
 - reordering the micropubs based on their date
+- ability to see all the micropubs in a json file at the following route `/micropub`
 
 ## Installation
 
