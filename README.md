@@ -46,11 +46,14 @@ cd IGR203-web-server-lab
 ```sh
 npm install
 ```
-5. Start the server.
+
+## Usage
+
+1. Start the server.
 ```sh
 node app.js
 ```
-6. You should be able to open it at the following link:
+2. You should be able to open it at the following link:
 ```
 http://localhost:8080/micropubs
 ```
