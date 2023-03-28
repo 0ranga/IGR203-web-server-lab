@@ -1,0 +1,13 @@
+{{#each micropub}}
+    <a class="micropub" href="/micropub?id={{id}}">
+        <div class="micropub-header">
+            <h2>{{username}}</h2>
+            <p>{{creationDate}}</p>
+        </div>
+        <div class="micropub-body">
+            <p>{{body}}</p>
+        </div>
+    </a>
+{{/each}}
+
+<a href="/micropub/new" class="write-your-own">Write you own!</a>
