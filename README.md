@@ -19,10 +19,12 @@ This project is the result of a web lab from a class at Télécom Paris as part 
 
 ### Goal of the project
 
-The goal was to create a minimal twitter-like app that lets you do the follwing things:
-- view all posts (called micropubs) 	-> route: `/micropubs`
-- view a specific micropub 		-> route: `/micropub?id=$ID` (replace `$ID` by a number)
-- publish a micropub 			-> route: `/micropub/new`
+The goal was to create a minimal twitter-like app that lets you do the follwing:
+| feature | route |
+|--|--|
+| view all posts (called micropubs) | `/micropubs` |
+| view a specific micropub | `/micropub?id=$ID` (replace `$ID` by a number) |
+| publish a micropub | `/micropub/new` |
 
 A few other requirements included:
 - save the new micropubs on the server so that data is not lost when server is stopped and relaunched
