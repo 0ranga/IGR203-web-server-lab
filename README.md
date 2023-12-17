@@ -51,4 +51,8 @@ node app.js
 ```
 http://localhost:8080/micropubs
 ```
+## Preview of the app
 
+![Home page](/docs/home.png "Home page")
+![New micropub](/docs/new-micropub.png "New micropub")
+![One micropub](/docs/one-micropub.png "One micropub")
